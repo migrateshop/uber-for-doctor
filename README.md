@@ -61,7 +61,7 @@ In the dynamic landscape of healthcare,[ doctors booking app](https://migratesho
 
 With a focus on convenience, personalization, and quality of care, on-demand healthcare platforms are poised to bridge gaps in access, empower patients, and drive better health outcomes. By fostering collaboration between patients, healthcare providers, and technology, these platforms are not just transforming the delivery of care but also shaping the future of healthcare itself.
 
-Discover on-demand healthcare service with our live demo - https://sangvish.com/uber-for-doctors/
+Discover on-demand healthcare service with our live demo - https://migrateshop.com/uber-for-doctors/
 
 
 **Contact us,**
